@@ -1,9 +1,9 @@
 ### Olá, eu sou Hugo Costa!
 - Hoje eu trabalho na Segurança Pública.
 - Licenciado em Matemática.
-- Estou cursando uma pós-graduação em Gestão de Riscos e Cibersegurança.
+- Pós-graduado em Gestão de Riscos e Cibersegurança.
 - Estudo também Javascrip.
-- Adquirindo conhecimentos em TI no Bootcamp Santander Cybersecurity.
+- Adquirindo conhecimentos em TI no Bootcamp Santander Cybersecurity#2.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocostafh&show_icons=true&theme=tokyonight"/>
